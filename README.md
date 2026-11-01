@@ -14,4 +14,3 @@ MLCore is an Android learning application containing 500 questions and answers c
 - Designed and developed the application.
 - Organised and structured the learning content.
 - Worked with local database storage using Room.
-- Developed a desktop version by adapting the data-access layer from Room to Exposed with SQLite.
